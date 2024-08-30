@@ -8,4 +8,4 @@ Anotações e materiais sobre diversas tecnologias da Engenharia de Dados.
 - [Linguagens e Frameworks](/13_08.md)
 - [Engenharia de Dados](/19_08.md)
 - [BigQuery](/20_08.md)
-
+- [Tarefa 2](/tarefa2.md)
